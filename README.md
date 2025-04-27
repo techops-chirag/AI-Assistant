@@ -2,7 +2,7 @@
 
 ![Maya Logo](img/maya-logo.png)  
 *A Smart Virtual Assistant to Ease Human Life*
-
+Live Website Link: **https://maya-ai-personal-assistant.vercel.app/**
 ## 🚀 About Maya
 Maya is an advanced AI-powered virtual assistant designed to simplify daily tasks, provide intelligent responses, and enhance productivity. Whether you need help with scheduling, web searches, or executing commands, Maya is here to assist you efficiently.
 
