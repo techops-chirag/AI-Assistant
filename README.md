@@ -32,17 +32,17 @@ Ensure you have Python 3 installed on your system.
 ### Steps
 ```sh
 # Clone the repository
-git clone https://github.com/your-username/maya-personal-assistant.git
-cd maya-personal-assistant
+git clone https://github.com/your-username/AI-Assistant.git
+cd AI-Assistant
 
 # Install dependencies
 pip install -r requirements.txt
 
-# Run Maya\python maya.py
+# Run Maya\python server.py
 ```
 
 ## 🎤 How to Use
-1. Run `maya.py`.
+1. Run `server.py`.
 2. Activate voice command (`Hey Maya` or `Hello Maya`).
 3. Ask Maya to perform tasks like:
    - "Maya, what's the weather today?"
